@@ -1,0 +1,1 @@
+# Menghubungkan-Mikrotik-sebagai-Station-ke-Acces-Point
