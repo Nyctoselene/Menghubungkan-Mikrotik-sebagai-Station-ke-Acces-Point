@@ -16,7 +16,8 @@
 ![Wireless](Wireless.png) 
   
 ⦁	Konfigurasi interface wlan1\
- Wireless > Interfaces > klik dua kali wlan1\
+ Wireless > Interfaces > enable WLAN dengan klik satu kali wlan1, lalu klik ceklis (✓) \
+ klik dua kali wlan1\
  Tab Wireless\
  Mode: station
 
@@ -58,7 +59,9 @@
  Out Interface: ether1-WAN\
  Action > Masquerade
  
-![NAT](NAT.png) 
+![NAT1](NAT1.png) 
+
+![NAT2](NAT2.png)
 
 ⦁	Konfigurasi IP ether2\
  IP > Address > + Address = 192.168.20.1/24\
